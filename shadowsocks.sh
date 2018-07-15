@@ -5,7 +5,7 @@ export PATH
 clear
 echo "#############################################################"
 echo "# One click Install Shadowsocks-Python server               #"
-echo "# Author: Idra Cakepz ( ./Mr.P5yc0 )                                  #"
+echo "# Author: Idra Cakepz ( ./Mr.P5yc0 )                        #"
 echo "#############################################################"
 echo
 
